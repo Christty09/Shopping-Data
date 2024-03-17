@@ -62,27 +62,29 @@ You can interact with the report [here](shoppingdataproject.xlsx)
 ## Analysis
 
 1.	The sum of total sales is $233,132
+   
 2.	The total items ordered is 3,901
+   
 3.	Total order by Color
 
-4.	![](orderbycolor.jpg)
-5.	
-6.  Top 10 Order by Location
-7.  
-8.  ![](orderbylocation.jpg)
-9.  
-10.  Order by Season
-11.  
-12.  ![](orderbyseason.jpg)
-13.  
-14.  Peridical Order
-15.  
-16.  ![](periodicalorder.jpg)
-17.  
-18.  Average review rate
+	![](orderbycolor.jpg)
+   
+4.  Top 10 Order by Location
+    
+  ![](orderbylocation.jpg)
+  
+5.  Order by Season
+  
+  ![](orderbyseason.jpg)
+  
+6.  Peridical Order
+  
+  ![](frequencyoforder.jpg)
+  
+8.  Average review rate
 
-19.  ![](averagereview.jpg)
-20.  
+  ![](reviewrate.jpg)
+  
 
 # Conclusion
 
