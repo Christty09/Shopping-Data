@@ -67,9 +67,9 @@ You can interact with the report [here](shoppingdataproject.xlsx)
    
 3.	Total order by Color
 
-	![](orderbycolor.jpg)
+  ![](oderbycolor.jpg)
    
-4.  Top 10 Order by Location
+4.     Top 10 Order by Location
     
   ![](orderbylocation.jpg)
   
@@ -77,18 +77,18 @@ You can interact with the report [here](shoppingdataproject.xlsx)
   
   ![](orderbyseason.jpg)
   
-6.  Peridical Order
+6.  Frequency of Order
   
   ![](frequencyoforder.jpg)
   
-8.  Average review rate
+7.  Average review rate
 
   ![](reviewrate.jpg)
   
 
 # Conclusion
 
-Firstly, there were 3,901 customers who ordered from the store, of which males were the highest in number. this shows that the highest oder the store had gotten over the months are from male customers.
+Firstly, there were 3,901 customers who ordered from the store, of which males were the highest in number. this shows that the highest order the store had gotten over the months were from male customers.
 Secondly,
 
 
