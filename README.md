@@ -1,10 +1,10 @@
-![image]()## Shopping-Revenue-Project
+##Shopping-Revenue-Project
 
 ![](shoppingstore.jpg)
 
 ## Introduction
 
-This is the data analysis focusing on the order of **shopping **Data.  
+This is the data analysis focusing on the order of #shopping Data.  
 The marketing department aim to launch a campaign in the second quarter of 2024. However, they required a dashboard to monitor the business activity during the waiting period. I am excited to take-up this project to practice my skill of data cleaning, analysis and visualization.
 
 
@@ -24,7 +24,7 @@ Dashboard
 
 •	Order by Season
 
-•	Peridical Order
+•	Periodical Order
 
 •	Average review rate
 
@@ -89,7 +89,8 @@ You can interact with the report [here](shoppingdataproject.xlsx)
 # Conclusion
 
 Firstly, there were 3,901 customers who ordered from the store, of which males were the highest in number. this shows that the highest order the store had gotten over the months were from male customers.
-Secondly,
+
+
 
 
 
